@@ -1,0 +1,10 @@
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/CMakeFiles/INSTALL.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/convex_hull/CMakeFiles/ConvexHull.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/convex_hull/CMakeFiles/libConvexHull.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/convex_hull/CMakeFiles/INSTALL.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/convex_hull/CMakeFiles/ALL_BUILD.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/power_diagram/CMakeFiles/PowerDiagram.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/power_diagram/CMakeFiles/INSTALL.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/power_diagram/CMakeFiles/ALL_BUILD.dir

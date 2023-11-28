@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 5\OT-Homework_2_skeleton\convex_hull\src\ConvexHull.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 5\OT-Homework_2_skeleton\convex_hull\src\Viewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 5\OT-Homework_2_skeleton\convex_hull\include\ConvexHull.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 5\OT-Homework_2_skeleton\convex_hull\include\ConvexHullMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 5\OT-Homework_2_skeleton\convex_hull\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BFADFF36-739D-366A-B218-28BBE7BF85FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{932BC225-096D-3312-A806-70569095129D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

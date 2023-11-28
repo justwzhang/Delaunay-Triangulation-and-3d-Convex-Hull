@@ -1,0 +1,10 @@
+^C:\USERS\JUSTW\DESKTOP\CS HW\CS 528 GRAPHICS\HW 5\OT-HOMEWORK_2_SKELETON\BUILD\CMAKEFILES\ADCADBB4FBF2B227D514A8347578B709\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton" "-BC:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/OTHomework.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

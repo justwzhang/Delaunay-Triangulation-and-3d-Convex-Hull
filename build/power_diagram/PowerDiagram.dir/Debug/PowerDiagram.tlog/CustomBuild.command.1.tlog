@@ -1,0 +1,10 @@
+^C:\USERS\JUSTW\DESKTOP\CS HW\CS 528 GRAPHICS\HW 5\OT-HOMEWORK_2_SKELETON\POWER_DIAGRAM\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton" "-BC:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build" --check-stamp-file "C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 5/OT-Homework_2_skeleton/build/power_diagram/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
